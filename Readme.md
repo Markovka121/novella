@@ -19,7 +19,7 @@
 
   6. Нажимаете треугольную кнопку: 
 
-![alt text](images/image.png)
+![alt text](images/image3.png)
 
 
 ## Начало и конец действий человека
